@@ -53,4 +53,4 @@ Update 14. wow it does look quite bad actually i wonder if i add another buton i
 
 Update 15: I added an eat riddick button, i do understand html now. Sugoi! Goodnight all
 
-ps i did not make the button count, nor did i make the js file. That is what needs to happen next i assume. 
+ps i did not make the button count, nor did i make the js file. That is what needs to happen next i assume. oh and i removed the eat riddick button and the riddick area in general
