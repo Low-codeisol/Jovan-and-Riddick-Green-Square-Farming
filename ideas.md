@@ -16,4 +16,8 @@ For me tn, or just like what im gonna get cracking on first.
 2. Show git commit button
 3. Make it so the git commit button increases the commits 
 
-Im gonna take some html lessons! wish me luck boi
+Im gonna take some html lessons! wish me luck boi 
+
+Update: What even is html bro its over its acc over i cant remember ts i can read it but no i can not write ts :(((((((((
+Update 2: Ok starting lesson now
+Update 3: Ok im just gonna jump in and make index.html
