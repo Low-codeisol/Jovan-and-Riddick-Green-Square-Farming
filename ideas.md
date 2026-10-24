@@ -28,19 +28,27 @@ Update 4: My right airpod died, went to go put it in the case, knocked over a fu
 
 Update 5: Water is cleaned up, started some html.
 
-Update 6: So to my understanding <!DOCTYPE html> is telling that its modern html. And then the <html> and </html> are opening and closing of the elements
-if that makes sense like everything goes inside it. <head> and </head> are the same thing im assuming but head is information about the webpage. same with
-<body> and </body> but instead of information about the webpage it is the stuff you see. 
+Update 6: So to my understanding `<!DOCTYPE html>` is telling that its modern html. And then the `<html>` and `</html>` are opening and closing of the elements
+if that makes sense like everything goes inside it. `<head>` and `</head>` are the same thing im assuming but head is information about the webpage. same with
+`<body>` and `</body>` but instead of information about the webpage it is the stuff you see. 
 
 Update 7: I am a little confused, more research will begin. 
 
 Update 8: Oh ok so head and body are like for the whole webpage not just like the section like everything you make goes inside of that. Quite interesting
 very cool. 
 
-Update 9: ok so ive got the title of the page in using like yk <title>Green Square Farming</title> and now im going to work on the part that goes inside
+Update 9: ok so ive got the title of the page in using like yk `<title>Green Square Farming</title>` and now im going to work on the part that goes inside
 body. 
 
-Update 10: So same thing for body its just <h1> for the header one and it goes on for like the other headers like its just saying what it is. and then for 
-<p> means paragraph so its just normal text. Ohhhh and then <button> makes it clickable i see i see. We can use the css to make it look good later.
+Update 10: So same thing for body its just `<h1>` for the header one and it goes on for like the other headers like its just saying what it is. and then for 
+`<p>` means paragraph so its just normal text. Ohhhh and then `<button>` makes it clickable i see i see. We can use the css to make it look good later.
 
-Update 11: I forgot to save my notes, so it didnt actually update. But i would like if you could go to settings>pages>deploy from root i think cuz like then we can use it yk i dont know if itll work with the clutter but it should. 
+Update 11: I forgot to save my notes, so it didnt actually update. But i would like if you could go to settings>pages>deploy from root i think cuz like then we can use it yk i dont know if itll work with the clutter but it should.
+
+Update 12: Its weird you cant see some stuff unless you look at the raw md but its not too imporant ig. 
+
+Update 13: bro wtf it looks like ts came out of 1999 whatever thats what css is for anyways im gonna make the button count. 
+
+Update 14. wow it does look quite bad actually i wonder if i add another buton i wanna play around a bit.
+
+Update 15: I added an eat riddick button, i do understand html now. Sugoi! Goodnight all
