@@ -52,3 +52,5 @@ Update 13: bro wtf it looks like ts came out of 1999 whatever thats what css is 
 Update 14. wow it does look quite bad actually i wonder if i add another buton i wanna play around a bit.
 
 Update 15: I added an eat riddick button, i do understand html now. Sugoi! Goodnight all
+
+ps i did not make the button count, nor did i make the js file. That is what needs to happen next i assume. 
