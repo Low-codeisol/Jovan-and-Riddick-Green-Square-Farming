@@ -1,17 +1,26 @@
 <!DOCTYPE html>
 <html>
+
 	<head>
 		<title>Green Square Farming</title> 
 		<link rel="stylesheet" href="swag.css">
 	</head>
-
-		<body>
-			<h1>Green Square Farming</h1>
-			<p id="commits">0</p>
-			<button onclick="increaseCommits()">git commit</button>
-
-			<iframe src="upgrades.htm" style="height:200px;width:300px;" title="upgrades"></iframe>
-		</body>
 	
+		<body class="grid-container">
+
+			<div class="item">
+				<h1>Green Square Farming</h1>
+				<p id="commits">0</p>
+				<p id="commitMultiplier">1</p>
+				<button onclick="work()">git commit</button>
+			</div>
+
+			<div class="item">						
+				<p id="upgrade1TimesBought">you bought this upgrade 0 times"</p>
+				<p id="upgrade1Price">this upgrade costs 50</p>
+				<p id="upgrade1Multiplier">this would add 0.2 to your multiplier"</p>
+				<button onclick="upgrade1()">git add</button>
+			</div>
+		</body>
 	<script src="counter.js"></script>
 </html>

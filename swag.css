@@ -11,6 +11,11 @@ p{
 	color: green;
 }
 
-.container{
+.grid-container{
 	display: grid;
+	grid-template-columns: 2fr 1fr;
+}
+
+.item{
+	padding: 2em;
 }
