@@ -1,0 +1,11 @@
+# Editor backups and Vim swap files
+*.swp
+*.swo
+*~
+
+# Common operating-system files
+.DS_Store
+Thumbs.db
+
+# Compiled output
+a.out
